@@ -116,6 +116,15 @@ Some fields were excluded from specific analyses where their meaning or data con
 - Some categories have relatively small sample sizes.
 - Salary currency and pay period are not specified in the source data.
 - Statistical significance does not necessarily indicate a large or practically important effect.
+- ## Dashboard Preview
+
+### Page 1 – Recruitment Overview
+
+![Recruitment Overview](Recruitment-overview.png)
+
+### Page 2 – Key Insights
+
+![Key Insights](key-insights.png)
 
 ## Project Takeaway
 
