@@ -1,2 +1,2 @@
-# the-application-black-hole-Copy
+# the-application-black-hole
 Exploratory recruitment analytics project analysing application trends, interview stages and offer acceptance using Python, SQL concepts and Power BI.
