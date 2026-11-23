@@ -1,5 +1,4 @@
 # the-application-black-hole
-# The Application Black Hole
 
 ### Exploratory Recruitment Analytics | Python | Power BI
 
